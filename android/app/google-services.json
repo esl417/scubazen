@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846190937468",
+    "project_id": "food-fus",
+    "storage_bucket": "food-fus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846190937468:android:12edc585993dc415dad0f9",
+        "android_client_info": {
+          "package_name": "com.csv.json.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqDXqj5finhPSLre4hUwQDb1gaykBOPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846190937468:android:26d7d95f4b000577dad0f9",
+        "android_client_info": {
+          "package_name": "com.example.food_fusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqDXqj5finhPSLre4hUwQDb1gaykBOPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
